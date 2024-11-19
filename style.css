@@ -498,4 +498,14 @@ footer {
         height: 250px;
         box-shadow: -6px 7px 12px rgba(0, 0, 0, 0.711);
     }
+
+    
+
+    .iframe{
+        /* margin: 0; */
+        width: 50%;
+    }
+    .iframe p{
+        font-size: 15px;
+    }
 }
